@@ -38,9 +38,9 @@
 		
 		default_layer {
 			bindings = <
-                &kp TAB    &kp Q     &kp W     &kp E     &kp R     &kp T      &kp Y     &kp U     &kp I       &kp O        &kp P         &kp BSPC
-                &kp LCTRL  &kp A     &kp S     &kp D     &kp F     &kp G      &kp H     &kp J     &kp K       &kp L                      &kp ENTER
-                &kp LSHFT  &kp Z     &kp X     &kp C     &kp V     &kp B      &kp N     &kp M     &kp COMMA                &kp DOT       &kp RSHFT
+                &kp TAB    &kp Q     &kp W     &kp F     &kp P     &kp B      &kp J     &kp L     &kp U       &kp Y        &kp ENTER     &kp BSPC
+                &kp LCTRL  &kp A     &kp R     &kp S     &kp T     &kp G      &kp M     &kp N     &kp E       &kp I                      &kp O
+                &kp LSHFT  &kp Z     &kp X     &kp C     &kp D     &kp V      &kp K     &kp H     &kp COMMA                &kp DOT       &kp RSHFT
                 &mo 2      &kp LGUI  &kp LALT  &kp SPACE           &td_lx               &kp SPACE             &kp RALT     &td_lx        &kp RCTRL    &kp C_MUTE
 			>;
             sensor-bindings = <&inc_dec_kp RIGHT LEFT>;
