@@ -43,7 +43,7 @@
                 &kp LSHFT  &kp Z     &kp X     &kp C     &kp V     &kp B      &kp N     &kp M     &kp COMMA                &kp DOT       &kp RSHFT
                 &mo 2      &kp LGUI  &kp LALT  &kp SPACE           &td_lx               &kp SPACE             &kp RALT     &td_lx        &kp RCTRL    &kp C_MUTE
 			>;
-            sensor-bindings = <&inc_dec_kp LEFT RIGHT>;
+            sensor-bindings = <&inc_dec_kp RIGHT LEFT>;
 		};
 
 		lower_layer {
