@@ -56,7 +56,7 @@
         label = "Encoder 1";
         a-gpios = <&blackpill 39 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>;
         b-gpios = <&blackpill 40 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>;
-        resolution = <4>;
+        resolution = <2>;
         status = "disabled";
     };
 
