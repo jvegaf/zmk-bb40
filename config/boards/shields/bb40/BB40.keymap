@@ -48,7 +48,7 @@
 
 		lower_layer {
 			bindings = <
-                &trans     &kp ESC   &kp PG_UP &kp GRAVE &trans    &kp KP_N7  &kp KP_N8 &kp KP_N9 &kp KP_N0   &kp KP_ENTER &kp LC(C)     &kp DEL
+                &trans     &kp ESC   &kp PG_UP &kp GRAVE &kp ENTER &kp KP_N7  &kp KP_N8 &kp KP_N9 &kp KP_N0   &kp KP_ENTER &kp LC(C)     &kp DEL
                 &trans     &kp HOME  &kp PG_DN &kp END   &kp LC(F) &kp KP_N4  &kp KP_N5 &kp KP_N6 &kp KP_PLUS &kp KP_MULTIPLY            &kp LC(V)
                 &trans     &kp FSLH  &kp MINUS &kp EQUAL &kp TAB   &kp KP_N1  &kp KP_N2 &kp KP_N3 &kp KP_MINUS             &kp KP_DIVIDE &trans
                 &trans     &trans    &trans    &kp BSPC            &trans               &kp KP_DOT            &trans       &trans        &trans       &kp C_MUTE
