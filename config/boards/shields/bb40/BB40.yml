@@ -3,7 +3,6 @@ id: BB40
 name: BB40
 type: shield
 url: https://mechwild.com/product/bb40/
-requires: [blackpill]
+requires: [promicro]
 features:
   - keys
-  - encoder
